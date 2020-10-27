@@ -1,0 +1,97 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    text-align: center;
+    color: brown;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    text-align: center;
+    color: brown;
+}
+
+img.carta {
+    width: 100px;
+}
+
+img.café {
+    width: 100px;
+}
+
+img.contacto {
+    width: 80px;
+}
+
+p.centrado {
+    position: relative;
+    left: 44%;
+    margin-top: 11%;
+}
+
+p.derecha {
+    position: relative;
+    left: 90%;
+    margin-top: 11%;
+}
+
+p.plato {
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+blockquote {
+    color: rgb(221, 44, 0);
+
+}
+
+img.elcafe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+img.lacarta {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    width: 40%;
+}
+img.instagram {
+    width: 230px;
+
+}
+
+img.twitter {
+    width: 230px;
+
+}
+
+img.facebook {
+    width: 230px;
+}
+
+a.instagram {
+    position: relative;
+    top: 230px;
+    left: 76%;
+
+}
+
+a.twitter {
+    position: relative;
+    left: 45%;
+    
+}
+
+a.facebook {
+    position: relative;
+    left: 200px;
+    bottom: 240px;
+
+}
